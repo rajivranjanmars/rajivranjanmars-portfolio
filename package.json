@@ -15,7 +15,7 @@
     "framer-motion": "^9.0.7",
     "maath": "^0.5.2",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
+    "react-dom": "^19.3.0",
     "react-router-dom": "7.18.4",
     "react-vertical-timeline-component": "^3.6.0",
     "three": "^0.149.0",
@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "@types/react": "^18.0.27",
-    "@types/react-dom": "^18.0.10",
+    "@types/react-dom": "^19.3.0",
     "@vitejs/plugin-react": "4.7.0",
     "postcss": "^8.4.21",
     "tailwindcss": "^4.3.3",
