@@ -17,7 +17,7 @@
     "react": "^19.3.0",
     "react-dom": "^19.3.0",
     "react-parallax-tilt": "^1.7.320",
-    "react-router-dom": "7.18.4",
+    "react-router-dom": "7.18.5",
     "react-vertical-timeline-component": "^4.0.0",
     "three": "^0.186.1"
   },
